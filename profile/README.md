@@ -22,6 +22,7 @@ TypeScript | Next.js | React | Tailwind CSS | WordPress | Claude AI | Trigger.de
 | [**Good Smart Idea**](https://goodsmartidea.com) | AI digital agency — websites, automation, AI agents |
 | [**Made for Law**](https://madeforlaw.com) | Legal tech platform — AI tools built for law firms |
 | [**Made for Life**](https://madeforlife.com) | Life planning and wellness — tools for living better |
+| [**Get More Streams**](https://getmorestreams.com) | Music marketing — grow your streams and fanbase |
 
 ## Learn More
 
