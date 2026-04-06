@@ -6,21 +6,26 @@ We build websites, automate marketing, and deploy AI agents — so you can focus
 
 ## What We Do
 
-- **[AI-Powered Websites](https://goodsmartidea.com/solutions)** — High-performance sites built with Next.js, optimized for search and conversion
-- **[Marketing Automation](https://goodsmartidea.com/solutions/marketing-automation)** — End-to-end campaign orchestration with AI-driven content and analytics
-- **[AI Agents & Chatbots](https://goodsmartidea.com/solutions/ai-agents)** — Custom AI assistants that handle customer support, lead qualification, and internal workflows
-- **[SEO & Content Strategy](https://goodsmartidea.com/blog)** — Data-driven content that ranks and converts
+- [**AI-Powered Websites**](https://goodsmartidea.com/solutions) — High-performance sites built with Next.js, optimized for search and conversion
+- [**Marketing Automation**](https://goodsmartidea.com/solutions/marketing-automation) — End-to-end campaign orchestration with AI-driven content and analytics
+- [**AI Agents & Chatbots**](https://goodsmartidea.com/solutions/ai-agents) — Custom AI assistants that handle customer support, lead qualification, and internal workflows
+- [**SEO & Content Strategy**](https://goodsmartidea.com/blog) — Data-driven content that ranks and converts
 
 ## Our Stack
 
-TypeScript | Next.js | React | Tailwind CSS | WordPress | Claude AI | Trigger.dev
+**Frontend** — Next.js · React · TypeScript · Tailwind CSS · shadcn/ui  
+**Backend** — Node.js · Supabase · Firebase · Cloudflare Workers · Stripe  
+**AI** — Claude · Claude Agent SDK · MCP · Gemini · OpenAI · OpenRouter · Vercel AI SDK · Tavily  
+**Voice** — ElevenLabs · Vapi  
+**Automation** — Trigger.dev · n8n · Zapier · Puppeteer · [Paperclip](https://github.com/paperclipai/paperclip)  
+**Infrastructure** — Cloudflare · Vercel · Hostinger VPS · GitHub Actions
 
 ## Brands
 
 | Brand | What It Does |
 |---|---|
 | [**Good Smart Idea**](https://goodsmartidea.com) | AI digital agency — websites, automation, AI agents |
-| [**Made for Law**](https://madeforlaw.com) | Legal tech platform — AI tools built for law firms |
+| [**Made For Law**](https://madeforlaw.com) | Legal tech platform — AI tools built for law firms |
 | [**Get More Streams**](https://getmorestreams.com) | Music marketing — grow your streams and fanbase |
 
 ## Learn More
@@ -29,3 +34,7 @@ TypeScript | Next.js | React | Tailwind CSS | WordPress | Claude AI | Trigger.de
 - [Blog & Resources](https://goodsmartidea.com/blog) — Guides on AI, marketing, and web development
 - [About Us](https://goodsmartidea.com/about) — Our story and approach
 - [Contact](https://goodsmartidea.com/contact) — Get in touch
+
+## Follow Us
+
+[YouTube](https://youtube.com/@goodsmartidea) · [LinkedIn](https://www.linkedin.com/company/goodsmartidea) · [X](https://x.com/GoodSmartIdea) · [TikTok](https://www.tiktok.com/@goodsmartidea) · [Instagram](https://www.instagram.com/goodsmartidea/) · [Facebook](https://www.facebook.com/GoodSmartIdea/)
