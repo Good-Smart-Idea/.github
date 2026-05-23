@@ -26,6 +26,7 @@ We build websites, automate marketing, and deploy AI agents — so you can focus
 |---|---|
 | [**Good Smart Idea**](https://goodsmartidea.com) | AI digital agency — websites, automation, AI agents |
 | [**Made For Law**](https://madeforlaw.com) | Legal tech platform — AI tools built for law firms |
+| [**RealSiteWorth**](https://realsiteworth.com) | Website & domain valuation — AI-powered estimates with a value-gap roadmap |
 | [**Get More Streams**](https://getmorestreams.com) | Music marketing — grow your streams and fanbase |
 
 ## Learn More
